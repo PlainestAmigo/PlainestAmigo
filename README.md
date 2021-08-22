@@ -42,7 +42,7 @@ You can reach me at <shrayashdubey123@gmail.com>.
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://www.clipartmax.com/png/full/243-2432711_%C2%A0-data.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.pngfind.com/pngs/b/74-744138_mysql-logo-transparent-png.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://icon-library.com/images/github-icon-white/github-icon-white-18.jpg" />
 <img align="left" alt="GitHub" width="26px" src="https://www.pngitem.com/pimgs/b/128-1280311_github-logo-png.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
